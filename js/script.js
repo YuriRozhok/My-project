@@ -1,1 +1,1 @@
-algiert('Hello');
+alert('Hello');
